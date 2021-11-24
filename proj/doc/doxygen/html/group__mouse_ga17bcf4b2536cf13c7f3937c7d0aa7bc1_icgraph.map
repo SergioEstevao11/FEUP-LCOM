@@ -1,0 +1,20 @@
+<map id="mouse_disable_data_reporting" name="mouse_disable_data_reporting">
+<area shape="rect" id="node1" title="Disables the data reporting mode of the mouse." alt="" coords="988,613,1144,654"/>
+<area shape="rect" id="node2" href="$group__game.html#ga231e4dd52378c7442957e86cb5547465" title="Fucntion that handles the project&#39;s main loop." alt="" coords="881,620,940,647"/>
+<area shape="rect" id="node3" href="$group__menu.html#ga2eb2d5ea682c9b057299293b846fa1f7" title="Changes the displayed menu based on the pressed button." alt="" coords="699,78,813,104"/>
+<area shape="rect" id="node4" href="$group__menu.html#ga4d0721e91615779a03ba8387602639e8" title="Changes the button&#39;s sprite to the highlighted one if the mouse is hovering over it,..." alt="" coords="525,15,630,42"/>
+<area shape="rect" id="node5" href="$graphics_8h.html#ae620cca8fabf5b4cd2c83f97b764d825" title="Clears the screen by drawing the current menu&#39;s corresponding background." alt="" coords="367,558,471,584"/>
+<area shape="rect" id="node6" href="$graphics_8h.html#ad00dfdeb581cc9dd6668e9864dbeb30b" title="Function that updates the screen when the user is in a menu." alt="" coords="5,347,116,374"/>
+<area shape="rect" id="node7" href="$graphics_8h.html#a34f6ff0bba76114c8094c759a237a374" title="Function that updates the screen when the user is in a level." alt="" coords="180,604,297,631"/>
+<area shape="rect" id="node8" href="$group__menu.html#gaa286d322f1b23432b557caa762b15a3e" title="Initializes the parameters of an &quot;Game&quot; variable." alt="" coords="524,695,631,722"/>
+<area shape="rect" id="node9" href="$group__menu.html#gacf52c049be505243b4616d41bf3a2b45" title="Function that increments the chronometer in every interrupt of the timer." alt="" coords="679,808,833,835"/>
+<area shape="rect" id="node10" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="695,859,817,886"/>
+<area shape="rect" id="node11" href="$group__menu.html#ga4e4d08fa5a5b1d69e13f8d63e83ce334" title="Reads the best completion times for each level and the dates when they were made from a file and save..." alt="" coords="703,758,809,784"/>
+<area shape="rect" id="node12" href="$group__menu.html#gaa349720a0ff4321c134dc85b2e3092d4" title="Saves the best completion times for each level and the dates when they were made to a file." alt="" coords="690,910,822,936"/>
+<area shape="rect" id="node13" href="$group__menu.html#gabd2dfb0a6d2ef2d80b99327018a20875" title="Updates the arrays that contain the 3 best completion times for each level and the corresponding date..." alt="" coords="688,960,824,987"/>
+<area shape="rect" id="node14" href="$graphics_8h.html#a4fd11c2e441f32fb162dede5b4bec886" title="Function that draws on the screen best completion times of a specific level and when they were made." alt="" coords="164,319,313,346"/>
+<area shape="rect" id="node15" href="$graphics_8h.html#aca7aa7639aa02bf0b82584597c8d4735" title="Function that is able to draw on screen the characters &#39;:&#39;, &#39;/&#39; and all decimal numbers (0&#45;9)" alt="" coords="700,406,812,432"/>
+<area shape="rect" id="node16" href="$graphics_8h.html#aaa3c1f6e707bc2a7a2cebde64838ecc2" title="Function that draws on the screen the current time in a &quot;dd/mm/yy&quot; format." alt="" coords="362,307,475,334"/>
+<area shape="rect" id="node17" href="$graphics_8h.html#a6949ae5f645eedea6fffcf6354168b78" title="Function that draws on the screen any number up to 100." alt="" coords="527,304,628,331"/>
+<area shape="rect" id="node18" href="$graphics_8h.html#a4de6536132b13c180158bc99b7987bde" title="Function that draws on the screen the current time in a &quot;minmin:ss:msms&quot; format." alt="" coords="361,380,476,407"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="level_setup" name="level_setup">
+<area shape="rect" id="node1" title="Initializes the objects for the specified level." alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#ga81b0cd3c6d171ff619472b00c1817395" title="Initializes the parameters of an &quot;Object&quot; element." alt="" coords="151,5,247,32"/>
+</map>

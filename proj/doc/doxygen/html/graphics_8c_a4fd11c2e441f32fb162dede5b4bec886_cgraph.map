@@ -1,0 +1,52 @@
+<map id="vg_draw_besttimes" name="vg_draw_besttimes">
+<area shape="rect" id="node1" title="Function that draws on the screen best completion times of a specific level and when they were made." alt="" coords="5,1836,155,1863"/>
+<area shape="rect" id="node2" href="$group__game.html#ga231e4dd52378c7442957e86cb5547465" title="Fucntion that handles the project&#39;s main loop." alt="" coords="364,1000,423,1027"/>
+<area shape="rect" id="node42" href="$graphics_8c.html#a4de6536132b13c180158bc99b7987bde" title="Function that draws on the screen the current time in a &quot;minmin:ss:msms&quot; format." alt="" coords="719,1811,834,1837"/>
+<area shape="rect" id="node50" href="$graphics_8c.html#aaa3c1f6e707bc2a7a2cebde64838ecc2" title="Function that draws on the screen the current time in a &quot;dd/mm/yy&quot; format." alt="" coords="203,1963,316,1989"/>
+<area shape="rect" id="node3" href="$group__mouse.html#ga7fd8f9d5620c9b53ecb897af960beedd" title="Updates the &quot;stuct packet&quot; variable with the info in &quot;PacketMouse&quot; array." alt="" coords="503,461,613,488"/>
+<area shape="rect" id="node4" href="$group__sprite.html#ga4b286fe7054b2d2a58163f76a5737226" title="Initializes the parameters of an &quot;Penguin&quot; element." alt="" coords="505,512,611,539"/>
+<area shape="rect" id="node5" href="$group__menu.html#ga4f7776e4ae6411dc7c48ebd0689453e5" title="Initializes all the buttons in the game, by calling the AssinButton for each one of them." alt="" coords="503,360,613,387"/>
+<area shape="rect" id="node7" href="$group__sprite.html#gacb53a4304c5b05833137ba4c84b11ae0" title="Checks if the Penguin is colliding with other objects at the current time." alt="" coords="497,629,619,656"/>
+<area shape="rect" id="node8" href="$group__sprite.html#ga793b81e591a6b6228adc1edabaf9a891" title="Checks if the Penguin is inside a water tile." alt="" coords="503,411,613,437"/>
+<area shape="rect" id="node10" href="$group__menu.html#ga4d0721e91615779a03ba8387602639e8" title="Changes the button&#39;s sprite to the highlighted one if the mouse is hovering over it,..." alt="" coords="505,1000,611,1027"/>
+<area shape="rect" id="node12" href="$group__sprite.html#gaefa8f141f296e021af207dd2afaf4b56" title="Checks if the Penguin is at the finnish line." alt="" coords="515,797,601,824"/>
+<area shape="rect" id="node13" href="$group__rtc.html#ga8a103873b10fdfc053a82ae1509414dd" title="Sets the parameters to the present day, month and year." alt="" coords="533,2052,583,2079"/>
+<area shape="rect" id="node16" href="$graphics_8c.html#a996ad0d46e46edac713af64ea63be162" title="Function that frees the memory allocated for the variable &quot;video_buffer&quot;." alt="" coords="511,848,605,875"/>
+<area shape="rect" id="node17" href="$group__menu.html#gaa286d322f1b23432b557caa762b15a3e" title="Initializes the parameters of an &quot;Game&quot; variable." alt="" coords="505,309,611,336"/>
+<area shape="rect" id="node19" href="$group__menu.html#gacf52c049be505243b4616d41bf3a2b45" title="Function that increments the chronometer in every interrupt of the timer." alt="" coords="481,949,635,976"/>
+<area shape="rect" id="node20" href="$group__keyboard.html#gaea970a154161a35f6894898a092ed70a" title="Handles the keyboard interrupts, using the scan_code and scanaux variables to pass the scan/break cod..." alt="" coords="745,227,809,253"/>
+<area shape="rect" id="node22" href="$group__keyboard.html#ga07c45ccf4763ef3122a8fee02316eb67" title="Subscribes and enables keyboard interrupts." alt="" coords="489,1051,627,1077"/>
+<area shape="rect" id="node23" href="$group__keyboard.html#ga5bdf6cfb570c375192b0d87913b65c57" title="Unsubscribes mouse interrupts." alt="" coords="481,1101,635,1128"/>
+<area shape="rect" id="node24" href="$group__mouse.html#gabd544ae8848a5f38949d00dca1ab8fdb" title="Initializes the parameters of a &quot;Mouse&quot; element." alt="" coords="499,1152,617,1179"/>
+<area shape="rect" id="node25" href="$group__mouse.html#ga17bcf4b2536cf13c7f3937c7d0aa7bc1" title="Disables the data reporting mode of the mouse." alt="" coords="480,681,636,722"/>
+<area shape="rect" id="node27" href="$group__mouse.html#ga98427928abec7d55fd0041f14633ecc9" title="Enables the data reporting mode of the mouse." alt="" coords="477,563,639,605"/>
+<area shape="rect" id="node28" href="$group__mouse.html#ga210374b50462acdedab00df64d5cea3c" title="Handles the mouse interrupt." alt="" coords="734,684,819,711"/>
+<area shape="rect" id="node29" href="$group__mouse.html#gaca1b6d9b10abb575bc6d169cced7f622" title="Subscribes and enables mouse interrupts." alt="" coords="479,1304,637,1331"/>
+<area shape="rect" id="node30" href="$group__mouse.html#ga3ecf823d80520009ae5e0d76ae40a3c3" title="Unsubscribes mouse interrupts." alt="" coords="471,1355,645,1381"/>
+<area shape="rect" id="node31" href="$group__mouse.html#ga348a30b6c2f26955ec1d226683659941" title="Adds to the &quot;PacketMouse&quot; array the information receive in the mouse interrupts." alt="" coords="503,1405,613,1432"/>
+<area shape="rect" id="node32" href="$group__menu.html#gaa349720a0ff4321c134dc85b2e3092d4" title="Saves the best completion times for each level and the dates when they were made to a file." alt="" coords="492,1456,624,1483"/>
+<area shape="rect" id="node33" href="$group__timer.html#gaf2c04fa8e97ffa748fd3f612886a92a7" title="Changes the operating frequency of a timer." alt="" coords="480,157,636,184"/>
+<area shape="rect" id="node35" href="$group__timer.html#gac57a7e1140a7e00ad95ac5488d2a671b" title="Subscribes and enables Timer 0 interrupts." alt="" coords="483,1557,633,1584"/>
+<area shape="rect" id="node36" href="$group__timer.html#gafabd21de449be154dd65d5fdb2d8045d" title="Unsubscribes Timer 0 interrupts." alt="" coords="475,1608,641,1635"/>
+<area shape="rect" id="node37" href="$graphics_8c.html#ad00dfdeb581cc9dd6668e9864dbeb30b" title="Function that updates the screen when the user is in a menu." alt="" coords="503,1811,613,1837"/>
+<area shape="rect" id="node44" href="$group__mouse.html#ga25f49f5e725866be0103cc287a3ece18" title="Updates the parametres of a &quot;Mouse&quot; variable, namely the x and y position and the lbpressed variable." alt="" coords="499,1659,617,1685"/>
+<area shape="rect" id="node45" href="$group__sprite.html#gac3bfb203db96df06902f01181b4e1478" title="Updates the Objects&#39; position." alt="" coords="497,1709,619,1736"/>
+<area shape="rect" id="node46" href="$graphics_8c.html#a34f6ff0bba76114c8094c759a237a374" title="Function that updates the screen when the user is in a level." alt="" coords="499,1507,617,1533"/>
+<area shape="rect" id="node47" href="$group__menu.html#gabd2dfb0a6d2ef2d80b99327018a20875" title="Updates the arrays that contain the 3 best completion times for each level and the corresponding date..." alt="" coords="490,5,626,32"/>
+<area shape="rect" id="node48" href="$group__sprite.html#ga526f52b671a9e010d47aae660f09e05b" title="Updates the Penguin&#39;s position provoked by human input or if the Penguin is on top of a &quot;Trunk&quot; type ..." alt="" coords="499,56,617,83"/>
+<area shape="rect" id="node49" href="$graphics_8c.html#ac6c17eefb71099a233facfd98a68caf8" title="Initializes the video module in graphics mode." alt="" coords="503,107,613,133"/>
+<area shape="rect" id="node6" href="$group__menu.html#ga5883a092e1ef5e8844f8361eb67f3453" title="Initializes the parameters of an &quot;Button&quot; variable." alt="" coords="723,360,831,387"/>
+<area shape="rect" id="node9" href="$group__sprite.html#gaa82d64118ea5d38b6fe043278c9901f9" title="Updates the Penguin&#39;s position if he&#39;s on top of a trunk and checks if he is out of bounds." alt="" coords="725,411,829,437"/>
+<area shape="rect" id="node11" href="$group__menu.html#ga2eb2d5ea682c9b057299293b846fa1f7" title="Changes the displayed menu based on the pressed button." alt="" coords="719,949,834,976"/>
+<area shape="rect" id="node14" href="$group__rtc.html#ga7ad962a1eceb6b29399ff486c7d7fe80" title="Checks if RTC is updating." alt="" coords="712,2064,841,2091"/>
+<area shape="rect" id="node15" href="$group__rtc.html#ga9d84b5bd48b738656f7f044b3b63fc84" title="Converts from BCD to decimal." alt="" coords="693,2115,860,2141"/>
+<area shape="rect" id="node18" href="$group__menu.html#ga4e4d08fa5a5b1d69e13f8d63e83ce334" title="Reads the best completion times for each level and the dates when they were made from a file and save..." alt="" coords="723,303,830,329"/>
+<area shape="rect" id="node21" href="$group__keyboard.html#ga2b56f50ba159e9d5115ed1a75eff15d9" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="909,399,1008,425"/>
+<area shape="rect" id="node26" href="$group__mouse.html#ga8cd252646eb8e65184320de4e0c0c84a" title="Passes in the KBC command buffer the 0xD4 command, followed by the command passed in the argument &quot;cm..." alt="" coords="726,571,827,597"/>
+<area shape="rect" id="node34" href="$group__timer.html#ga703c60b40c8c49607d6ecb6fef82d27a" title="Reads the input timer configuration (status) via read&#45;back command." alt="" coords="717,164,837,191"/>
+<area shape="rect" id="node38" href="$graphics_8c.html#ae620cca8fabf5b4cd2c83f97b764d825" title="Clears the screen by drawing the current menu&#39;s corresponding background." alt="" coords="725,1507,829,1533"/>
+<area shape="rect" id="node39" href="$graphics_8c.html#a74930566e72c70d3e7d9bf66afd2e8c3" title="Function that moves the content of the invisible buffer variable video_buffer to the variable video_m..." alt="" coords="721,1659,832,1685"/>
+<area shape="rect" id="node40" href="$graphics_8c.html#a7e439c433a6c6f07b1d23a0d1ed4af33" title="Draws the corresponding buttons of each menu." alt="" coords="709,1861,844,1888"/>
+<area shape="rect" id="node41" href="$graphics_8c.html#aca7aa7639aa02bf0b82584597c8d4735" title="Function that is able to draw on screen the characters &#39;:&#39;, &#39;/&#39; and all decimal numbers (0&#45;9)" alt="" coords="1057,1912,1169,1939"/>
+<area shape="rect" id="node43" href="$graphics_8c.html#a6949ae5f645eedea6fffcf6354168b78" title="Function that draws on the screen any number up to 100." alt="" coords="908,1912,1009,1939"/>
+</map>

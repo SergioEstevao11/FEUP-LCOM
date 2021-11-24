@@ -1,0 +1,5 @@
+<map id="vg_draw_Penguin" name="vg_draw_Penguin">
+<area shape="rect" id="node1" title="Draws the Penguin on the screen." alt="" coords="5,5,141,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a6c5cea4a1a669f1a0e5d9ef4541b4436" title="Draws a pixmap image on the screen." alt="" coords="189,5,323,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#aea6e275c7b045b9884f61c06dda83bc5" title="Changes the color of a pixel." alt="" coords="371,5,479,32"/>
+</map>

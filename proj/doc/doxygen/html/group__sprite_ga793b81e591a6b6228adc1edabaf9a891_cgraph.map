@@ -1,0 +1,4 @@
+<map id="checkInWater" name="checkInWater">
+<area shape="rect" id="node1" title="Checks if the Penguin is inside a water tile." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node2" href="$group__sprite.html#gaa82d64118ea5d38b6fe043278c9901f9" title="Updates the Penguin&#39;s position if he&#39;s on top of a trunk and checks if he is out of bounds." alt="" coords="164,5,268,32"/>
+</map>

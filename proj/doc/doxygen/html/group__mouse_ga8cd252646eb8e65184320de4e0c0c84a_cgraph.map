@@ -1,0 +1,4 @@
+<map id="mouse_cmd" name="mouse_cmd">
+<area shape="rect" id="node1" title="Passes in the KBC command buffer the 0xD4 command, followed by the command passed in the argument &quot;cm..." alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node2" href="$group__keyboard.html#ga2b56f50ba159e9d5115ed1a75eff15d9" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="155,5,253,32"/>
+</map>

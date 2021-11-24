@@ -1,0 +1,25 @@
+var graphics_8c =
+[
+    [ "change_color", "graphics_8c.html#aea6e275c7b045b9884f61c06dda83bc5", null ],
+    [ "clear_screen", "graphics_8c.html#ae620cca8fabf5b4cd2c83f97b764d825", null ],
+    [ "double_buffer", "graphics_8c.html#a74930566e72c70d3e7d9bf66afd2e8c3", null ],
+    [ "free_buffer", "graphics_8c.html#a996ad0d46e46edac713af64ea63be162", null ],
+    [ "update_menu", "graphics_8c.html#ad00dfdeb581cc9dd6668e9864dbeb30b", null ],
+    [ "update_screen", "graphics_8c.html#a34f6ff0bba76114c8094c759a237a374", null ],
+    [ "vg_draw_besttimes", "graphics_8c.html#a4fd11c2e441f32fb162dede5b4bec886", null ],
+    [ "vg_draw_Buttons", "graphics_8c.html#a7e439c433a6c6f07b1d23a0d1ed4af33", null ],
+    [ "vg_draw_char", "graphics_8c.html#aca7aa7639aa02bf0b82584597c8d4735", null ],
+    [ "vg_draw_date", "graphics_8c.html#aaa3c1f6e707bc2a7a2cebde64838ecc2", null ],
+    [ "vg_draw_int", "graphics_8c.html#a6949ae5f645eedea6fffcf6354168b78", null ],
+    [ "vg_draw_object", "graphics_8c.html#ab2043dce2a822991bd066ce91134763c", null ],
+    [ "vg_draw_Penguin", "graphics_8c.html#af281448ad0f391ca81191ee73339b343", null ],
+    [ "vg_draw_pixmap", "graphics_8c.html#a6c5cea4a1a669f1a0e5d9ef4541b4436", null ],
+    [ "vg_draw_time", "graphics_8c.html#a4de6536132b13c180158bc99b7987bde", null ],
+    [ "vh_set_mode", "graphics_8c.html#ac6c17eefb71099a233facfd98a68caf8", null ],
+    [ "bits_pixel", "graphics_8c.html#a46f3637e89a63b3d69d66f4578364c28", null ],
+    [ "bytes_pixel", "graphics_8c.html#a907058526cec441266eb0ce0bcd92653", null ],
+    [ "res_x", "graphics_8c.html#ab8ef9725424b8a343ed9641fc1057bc8", null ],
+    [ "res_y", "graphics_8c.html#a4d4064444775359368b1a42c3d2af786", null ],
+    [ "video_buffer", "graphics_8c.html#a9dd702e63e63161a33a17df975310705", null ],
+    [ "video_mem", "graphics_8c.html#a5077a1a703b40b073dc6b5c1129ab0a1", null ]
+];

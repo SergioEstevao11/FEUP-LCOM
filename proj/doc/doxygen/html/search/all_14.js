@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['vg_5fdraw_5fbesttimes_274',['vg_draw_besttimes',['../graphics_8c.html#a4fd11c2e441f32fb162dede5b4bec886',1,'vg_draw_besttimes(Game game):&#160;graphics.c'],['../graphics_8h.html#a4fd11c2e441f32fb162dede5b4bec886',1,'vg_draw_besttimes(Game game):&#160;graphics.c']]],
+  ['vg_5fdraw_5fbuttons_275',['vg_draw_Buttons',['../graphics_8c.html#a7e439c433a6c6f07b1d23a0d1ed4af33',1,'vg_draw_Buttons(int begin, int end, Button *buttons, ButtonType highlighted):&#160;graphics.c'],['../graphics_8h.html#a7e439c433a6c6f07b1d23a0d1ed4af33',1,'vg_draw_Buttons(int begin, int end, Button *buttons, ButtonType highlighted):&#160;graphics.c']]],
+  ['vg_5fdraw_5fchar_276',['vg_draw_char',['../graphics_8c.html#aca7aa7639aa02bf0b82584597c8d4735',1,'vg_draw_char(Game game, char a, int x, int y):&#160;graphics.c'],['../graphics_8h.html#aca7aa7639aa02bf0b82584597c8d4735',1,'vg_draw_char(Game game, char a, int x, int y):&#160;graphics.c']]],
+  ['vg_5fdraw_5fdate_277',['vg_draw_date',['../graphics_8c.html#aaa3c1f6e707bc2a7a2cebde64838ecc2',1,'vg_draw_date(Game game, unsigned long date, int *x, int y):&#160;graphics.c'],['../graphics_8h.html#aaa3c1f6e707bc2a7a2cebde64838ecc2',1,'vg_draw_date(Game game, unsigned long date, int *x, int y):&#160;graphics.c']]],
+  ['vg_5fdraw_5fint_278',['vg_draw_int',['../graphics_8c.html#a6949ae5f645eedea6fffcf6354168b78',1,'vg_draw_int(Game game, int num, int *x, int y):&#160;graphics.c'],['../graphics_8h.html#a6949ae5f645eedea6fffcf6354168b78',1,'vg_draw_int(Game game, int num, int *x, int y):&#160;graphics.c']]],
+  ['vg_5fdraw_5fobject_279',['vg_draw_object',['../graphics_8c.html#ab2043dce2a822991bd066ce91134763c',1,'vg_draw_object(Object *objects, int size):&#160;graphics.c'],['../graphics_8h.html#ab2043dce2a822991bd066ce91134763c',1,'vg_draw_object(Object *objects, int size):&#160;graphics.c']]],
+  ['vg_5fdraw_5fpenguin_280',['vg_draw_Penguin',['../graphics_8h.html#af281448ad0f391ca81191ee73339b343',1,'vg_draw_Penguin(Penguin Penguin):&#160;graphics.c'],['../graphics_8c.html#af281448ad0f391ca81191ee73339b343',1,'vg_draw_Penguin(Penguin Penguin):&#160;graphics.c']]],
+  ['vg_5fdraw_5fpixmap_281',['vg_draw_pixmap',['../graphics_8c.html#a6c5cea4a1a669f1a0e5d9ef4541b4436',1,'vg_draw_pixmap(uint16_t x, uint16_t y, uint16_t width, uint16_t height, uint32_t *bytes):&#160;graphics.c'],['../graphics_8h.html#a6c5cea4a1a669f1a0e5d9ef4541b4436',1,'vg_draw_pixmap(uint16_t x, uint16_t y, uint16_t width, uint16_t height, uint32_t *bytes):&#160;graphics.c']]],
+  ['vg_5fdraw_5ftime_282',['vg_draw_time',['../graphics_8c.html#a4de6536132b13c180158bc99b7987bde',1,'vg_draw_time(Game game, unsigned long time, int *x, int y):&#160;graphics.c'],['../graphics_8h.html#a4de6536132b13c180158bc99b7987bde',1,'vg_draw_time(Game game, unsigned long time, int *x, int y):&#160;graphics.c']]],
+  ['vh_5fset_5fmode_283',['vh_set_mode',['../graphics_8c.html#ac6c17eefb71099a233facfd98a68caf8',1,'vh_set_mode(uint16_t mode):&#160;graphics.c'],['../graphics_8h.html#ac6c17eefb71099a233facfd98a68caf8',1,'vh_set_mode(uint16_t mode):&#160;graphics.c']]],
+  ['victoryscreen_284',['victoryscreen',['../group__menu.html#ggaf3d52afbb0d088f62e02208b24a9cbd2a6ebfee2bc2857e8f34ac389f765516e4',1,'menu.h']]],
+  ['victoryscreen_5fcolor_285',['victoryscreen_color',['../structGame.html#a134ecf46155a19812b63254e82b3da20',1,'Game']]],
+  ['victoryscreen_5fimg_286',['victoryscreen_Img',['../structGame.html#a4d815ed75b02d6a5e75c695236a63ec8',1,'Game']]],
+  ['video_5fbuffer_287',['video_buffer',['../graphics_8c.html#a9dd702e63e63161a33a17df975310705',1,'graphics.c']]],
+  ['video_5fmem_288',['video_mem',['../graphics_8c.html#a5077a1a703b40b073dc6b5c1129ab0a1',1,'graphics.c']]]
+];

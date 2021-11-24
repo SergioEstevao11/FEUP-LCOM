@@ -1,0 +1,5 @@
+<map id="vg_draw_object" name="vg_draw_object">
+<area shape="rect" id="node1" title="Function that draws the objects for a level." alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a6c5cea4a1a669f1a0e5d9ef4541b4436" title="Draws a pixmap image on the screen." alt="" coords="177,5,311,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#aea6e275c7b045b9884f61c06dda83bc5" title="Changes the color of a pixel." alt="" coords="359,5,467,32"/>
+</map>

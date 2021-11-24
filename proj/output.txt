@@ -1,0 +1,10 @@
+b4 sys_irqsetpolicy: hood_id = 0x01
+after sys_irqsetpolicy: hook_id = 0xa
+b4 sys_irqsetpolicy: hood_id = 0x00
+after sys_irqsetpolicy: hook_id = 0xb
+20121
+466
+384
+20121
+0
+0
