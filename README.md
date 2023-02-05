@@ -1,3 +1,4 @@
+# FEUP-LCOM
 **Description** - Labs and final project "Penguin Run", a platform game inspired by SuperTux and Crossy Road
 
 **Course** - Computer Laboratory
